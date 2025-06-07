@@ -2,10 +2,11 @@ title: Sitio Marjori
 author: Marjori Flores
 description: Este es mi segundo sitio hecho con Jekyll!
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
+  - jekyll-collections
 
 collections:
   projects:
