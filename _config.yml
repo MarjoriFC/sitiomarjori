@@ -10,4 +10,3 @@ plugins:
 collections:
   projects:
     output: true
-
