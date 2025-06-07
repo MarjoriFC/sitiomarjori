@@ -1,0 +1,13 @@
+title: Sitio Marjori
+author: Marjori Flores
+description: Este es mi segundo sitio hecho con Jekyll!
+
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-feed
+
+collections:
+  projects:
+    output: true
+
